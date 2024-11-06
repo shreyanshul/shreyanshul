@@ -1,7 +1,15 @@
-## Hi there 👋
+## Namastay from Shreyansh 🙏
+
+I am a Software Engineer at AWS, specializing in the Distributed Storage Layer of RDS Aurora Databases. My work focuses on scaling cloud databases to handle massive volumes of data, which piques my curiosity about the fundamental computer science principles that power these systems. I primarily work with C++, but I also leverage Java, Bash, and Python to solve complex challenges.
+
+With 5 years of experience in software development, I have gained hands-on expertise across the entire software development lifecycle, including requirements gathering, system design, implementation, testing, deployment, and ongoing maintenance.
+
+I'm passionate about exploring emerging technologies and leveraging them to create innovative solutions. Currently, I am expanding my knowledge of AI integration in healthcare devices, with a focus on how it can enhance medical technologies.
 
 <!--
-**shreyanshul/shreyanshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shreyanshul/shreyanshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+
+Do let me know on my mail if you want to discuss on these topics.
 
 Here are some ideas to get you started:
 
